@@ -1,8 +1,10 @@
 # Name Rater
-### Video Demo: https://youtu.be/kZegCcr__X0
+
+### Video Demo: https://youtu.be/ca0HPay7jak
+
 ### Description:
 
-This project is inspired by my own given name "Kevin", the typical ongoing stereotype of people named Kevin, and an ongoing trend on Instagram with a list of names posted on many reels consisting of "If name mentioned,  ___ owes you bubble tea" and then going on to display an image of an extensively long list of names. This sparks the question of how valuable a name is, and while this is largely a very intangible and subjective view, I attempted in a half-jokingly sort-of way to create a program that successfully scores inputted names.
+This project is inspired by my own given name "Kevin", the typical ongoing stereotype of people named Kevin, and an ongoing trend on Instagram with a list of names posted on many reels consisting of "If name mentioned, \_\_\_ owes you bubble tea" and then going on to display an image of an extensively long list of names. This sparks the question of how valuable a name is, and while this is largely a very intangible and subjective view, I attempted in a half-jokingly sort-of way to create a program that successfully scores inputted names.
 
 There are many factors that go into the quality of a name. The 4 that I chose to focus on were rarity, value, nicknamability, and pronouncibilty. For each of these factors, I created a unique function to assess and assign a value for an inputted name.
 
